@@ -32,3 +32,8 @@ Permet de posser les modifications en  ligne
 
 ## git pull
 - Permet de récupérer les modifications distantes
+
+## git rebase
+- Permet de récupérer les modifications dans la branche parente
+- Les modifications de la brache mère sont placées en dessous des modifications de la branche courrente
+- Les modifications de la branche courrente sont placées au dessur de la branche mère
