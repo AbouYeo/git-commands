@@ -3,10 +3,10 @@
 Listes des commandes git
 
 ## git init
-Permet d´initialiser un repertoire
+- Permet d´initialiser un repertoire
 
 ## git add
-Permet d´ajouter un fichier ou des modifications das le stagging
+- Permet d´ajouter un fichier ou des modifications das le stagging
 
 ## git commit
 - Permet d´enregistrer une modification en local
@@ -16,14 +16,15 @@ Permet d´ajouter un fichier ou des modifications das le stagging
 Permet de posser les modifications en  ligne
 
 ## git status
-Permet de vérifier le statut du répertoire
-Permet de lister les modifications à traiter
+- Permet de vérifier le statut du répertoire
+- Permet de lister les modifications à traiter
 
-## git log (--oneline)
-Permet de lister les modifications en local
+## git log 
+- Permet de lister les modifications en local
+- Avec l´option --oneline, le resultat est affiché en une ligne
 
 ## git branch 
-Permet de créer une branche
+- Permet de créer une branche
 
 ## git checkout
 - Permet de se déplacer d´une branche à une autre
