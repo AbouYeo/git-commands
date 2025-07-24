@@ -9,8 +9,8 @@ Permet d´initialiser un repertoire
 Permet d´ajouter un fichier ou des modifications das le stagging
 
 ## git commit
-Permet d´enregistrer une modification en local
-Le message est important
+- Permet d´enregistrer une modification en local
+- Le message est important
 
 ## git push
 Permet de posser les modifications en  ligne
@@ -21,3 +21,10 @@ Permet de lister les modifications à traiter
 
 ## git log (--oneline)
 Permet de lister les modifications en local
+
+## git branch 
+Permet de créer une branche
+
+## git checkout
+- Permet de se déplacer d´une branche à une autre
+- Avec l´option -b, créé la branche si elle n´existe pas 
