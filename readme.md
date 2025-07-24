@@ -29,3 +29,6 @@ Permet de posser les modifications en  ligne
 ## git checkout
 - Permet de se déplacer d´une branche à une autre
 - Avec l´option -b, créé la branche si elle n´existe pas 
+
+## git pull
+- Permet de récupérer les modifications distantes
