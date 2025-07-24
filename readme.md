@@ -18,3 +18,6 @@ Permet de posser les modifications en  ligne
 ## git status
 Permet de vérifier le statut du répertoire
 Permet de lister les modifications à traiter
+
+## git log (--oneline)
+Permet de lister les modifications en local
