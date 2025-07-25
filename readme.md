@@ -45,3 +45,6 @@ Permet de posser les modifications en  ligne
 ## git diff
 - Permet d´afficher les dernières modifications
 - Avec l´option <sha> <sha> montre la difference entre les deux commits
+
+## git clone 
+- Permet de cloner un projet depuis github vers local
