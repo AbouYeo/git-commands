@@ -42,4 +42,6 @@ Permet de posser les modifications en  ligne
 - Permet d´ecraser la version actuelle pour revenir à une version ancienne
 - Avce l´option --hard l´action est forcée
 
-
+## git diff
+- Permet d´afficher les dernières modifications
+- Avec l´option <sha> <sha> montre la difference entre les deux commits
